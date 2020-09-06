@@ -10,7 +10,6 @@ body {
   border-radius: 8px;
   font-family: 'Times New Roman', Times, serif;
   transition-duration: o.4s;
-  float: left;
   border: 1px black;
 }
 
