@@ -4,11 +4,11 @@ body {
   color: white;
 }
 
-button1 {
+button {
   transition-duration: 0.4s;
 }
 
-button1:hover {
+button:hover {
   background-color: black;
   color: white;
 }
