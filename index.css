@@ -15,4 +15,5 @@ body {
 .btn:hover {
   background-color: black;
   color: white;
+  box-shadow: black;
 }
