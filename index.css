@@ -3,10 +3,14 @@ body {
   text-align: center;
   color: white;
 }
-button club info {
+.btn {
   background-color: white;
   color: black;
   font-size: 20px;
   border-radius: 8px;
   font-family: 'Times New Roman', Times, serif;
+}
+
+.info {
+  background-color: teal;
 }
