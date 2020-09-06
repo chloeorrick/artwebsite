@@ -9,8 +9,10 @@ body {
   font-size: 20px;
   border-radius: 8px;
   font-family: 'Times New Roman', Times, serif;
+  transition-duration: o.4s;
 }
 
-.info {
-  background-color: teal;
+.btn:hover {
+  background-color: black;
+  color: white;
 }
