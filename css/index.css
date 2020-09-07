@@ -22,6 +22,5 @@ body {
 .btn:hover {
   background-color: mediumvioletred;
   color: white;
-  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
-    0 17px 50px 0 rgba(165, 12, 179, 0.19);
+  box-shadow: 5px 10px 18px rgb(158, 13, 105);
 }
