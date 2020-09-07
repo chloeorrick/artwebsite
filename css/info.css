@@ -25,6 +25,13 @@ body {
   right: -70;
 }
 
+.ci:hover {
+  background-color: mediumslateblue;
+  color: white;
+  border-color: white;
+  transition: color 0.5s, background-color 0.5s;
+}
+
 .home {
   background-color: transparent;
   color: white;
