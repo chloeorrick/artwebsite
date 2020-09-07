@@ -9,3 +9,28 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.hyperlink {
+  text-align: center;
+  position: relative;
+  left: -50;
+}
+
+.home {
+  background-color: transparent;
+  color: white;
+  font-size: 16px;
+  border-radius: 4px;
+  width: 108px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  position: relative;
+  left: -210px;
+  top: -95;
+}
+
+.home:hover {
+  background-color: rebeccapurple;
+  color: white;
+  transition: color 0.5s, background-color 0.5s;
+  border-color: white;
+}

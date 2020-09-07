@@ -36,3 +36,10 @@ body {
   left: -500;
   padding: 10px;
 }
+
+.home:hover {
+  background-color: mediumslateblue;
+  color: white;
+  transition: color 0.5s, background-color 0.5s;
+  border-color: white;
+}
