@@ -1,7 +1,15 @@
 body {
-  background-image: url('../img/sparkly-stars.jpg');
+  height: 100%;
   text-align: center;
   color: white;
+}
+
+.bg {
+  background-image: url('../img/sparkly-stars.jpg');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .btn {
