@@ -7,9 +7,9 @@ body {
 .ci {
   background-color: transparent;
   color: white;
-  font-size: 24px;
+  font-size: 28px;
   border-radius: 2px;
   font-family: 'Times New Roman', Times, serif;
   border-color: white;
-  width: 50%;
+  width: 250px;
 }
