@@ -30,3 +30,8 @@ body {
   transition: color 0.5s, background-color 0.5s;
   border-color: white;
 }
+
+.heading-text:hover {
+  color: mediumvioletred;
+  transition: all 0.2s;
+}
