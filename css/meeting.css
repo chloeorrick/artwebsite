@@ -1,0 +1,32 @@
+body {
+  background-image: url('../img/firework-galaxy.jpg');
+  color: white;
+  text-align: center;
+  font-size: xx-large;
+  border: 5px white;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  top: -50;
+}
+
+.home {
+  background-color: transparent;
+  color: white;
+  font-size: 16px;
+  border-radius: 4px;
+  width: 108px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  position: relative;
+  left: -400;
+  top: 100;
+}
+
+.home:hover {
+  background-color: mediumvioletred;
+  color: white;
+  transition: color 0.5s, background-color 0.5s;
+  border-color: white;
+}
