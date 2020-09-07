@@ -17,6 +17,7 @@ body {
   transition-duration: o.4s;
   border: 1px black;
   width: 250px;
+  position: relative;
   top: 100px;
 }
 
