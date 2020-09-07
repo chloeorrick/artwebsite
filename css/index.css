@@ -17,7 +17,7 @@ body {
   transition-duration: o.4s;
   border: 1px black;
   width: 250px;
-  top: 50px;
+  top: 100px;
 }
 
 .btn:hover {
