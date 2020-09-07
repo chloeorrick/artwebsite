@@ -6,12 +6,17 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  font-size: x-large;
+}
+
+.paragraph {
+  position: relative;
 }
 
 .ci {
   background-color: transparent;
   color: white;
-  font-size: 28px;
+  font-size: 32px;
   border-radius: 2px;
   font-family: 'Times New Roman', Times, serif;
   border-color: white;
