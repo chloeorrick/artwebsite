@@ -8,7 +8,7 @@ body {
   color: black;
   font-size: 20px;
   border-radius: 8px;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   transition-duration: o.4s;
   border: 1px black;
 }
