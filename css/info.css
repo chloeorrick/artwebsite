@@ -18,7 +18,21 @@ body {
   color: white;
   font-size: 32px;
   border-radius: 2px;
-  font-family: 'Times New Roman', Times, serif;
   border-color: white;
   width: 250px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  position: relative;
+  right: -70;
+}
+
+.home {
+  background-color: transparent;
+  color: white;
+  font-size: 16px;
+  border-radius: 4px;
+  width: 108px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  position: relative;
+  left: -500;
+  padding: 10px;
 }

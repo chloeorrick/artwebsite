@@ -1,5 +1,11 @@
 body {
-  background-color: white;
-  color: black;
+  background-image: url('https://apod.nasa.gov/apod/image/1911/M16_HaSynLumLumRGB.jpg');
+  color: white;
   text-align: center;
+  font-size: xx-large;
+  border: 5px white;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
