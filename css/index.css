@@ -1,5 +1,5 @@
 body {
-  background-image: 'img/sparkly-stars.jpg';
+  background-image: url('../img/sparkly-stars.jpg');
   text-align: center;
   color: white;
 }
