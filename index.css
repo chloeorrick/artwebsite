@@ -3,6 +3,7 @@ body {
   text-align: center;
   color: white;
 }
+/*
 .btn {
   background-color: white;
   color: black;
@@ -10,6 +11,12 @@ body {
   border-radius: 8px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   transition-duration: o.4s;
+  border: 1px black;
+}
+*/
+
+.btn {
+  float: left;
   border: 1px black;
 }
 
