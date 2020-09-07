@@ -20,8 +20,8 @@ body {
   border: 1px black;
   width: 250px;
   position: relative;
-  top: 200px;
-  padding: 14px 40px;
+  top: 100px;
+  padding: 10px 24px;
 }
 
 .btn:hover {
