@@ -25,7 +25,8 @@ body {
   font-family: Georgia, 'Times New Roman', Times, serif;
   position: relative;
   left: -210px;
-  top: -95;
+  top: -90;
+  padding: 10px;
 }
 
 .home:hover {
