@@ -34,3 +34,9 @@ body {
   box-shadow: 5px 10px 8px rgb(100, 11, 67);
   transition: box-shadow 0.7s, color 0.5s, background-color 0.5s;
 }
+
+.hyperlink {
+  text-align: center;
+  position: relative;
+  top: 300;
+}
