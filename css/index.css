@@ -1,5 +1,9 @@
 .start {
   text-align: center;
   font-size: xx-large;
+  
+}
+
+body {
   background-color: rgb(153,203,238);
 }
