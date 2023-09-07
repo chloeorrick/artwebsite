@@ -1,10 +1,7 @@
 .start {
-  left: 0;
-  line-height: 200px;
-  margin-top: -100px;
-  position: absolute;
+  height: 100px;
+  line-height: 100px;
   text-align: center;
-  top: 50%;
-  width: 100%;
+  border: 2px dashed #f69c55;
   
 }
