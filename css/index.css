@@ -1,9 +1,9 @@
 .start {
   display: flex;
-  height: relative;
+  height: auto;
   justify-content: center;
   align-items: center;
-  font-size: 50%;
+  font-size: 100%;
 }
 
 body {
