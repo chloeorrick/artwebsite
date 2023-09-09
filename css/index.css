@@ -1,6 +1,5 @@
 .start {
-  display: flex;
-  justify-content: center;
+  position: relative;
   align-items: center;
   font-size: xx-large;
 }
