@@ -1,8 +1,8 @@
 .start {
   display: flex;
-  height: 1000px;
   justify-content: center;
   align-items: center;
+  flex: 0 1 auto;
   font-size: xx-large;
 }
 
