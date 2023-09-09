@@ -1,7 +1,7 @@
 .start {
-  text-align: center;
+  display: flex;
   font-size: xx-large;
-  flex: 0 1 auto
+  justify-content: center;
 }
 
 body {
