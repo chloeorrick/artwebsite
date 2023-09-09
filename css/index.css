@@ -3,7 +3,14 @@
   height: 100vh;
   justify-content: center;
   align-items: center;
-  font-size: 100%;
+  font-size: 300%;
+  @font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 800;
+  src: url('../fonts/rubik-v28-latin-800.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
 }
 
 body {
