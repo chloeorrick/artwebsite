@@ -7,7 +7,14 @@
   font-style: italic;
   font-stretch: expanded;
   font-family: 'ABeeZee', sans-serif;
+
 }
+
+.start:hover {
+  color: mediumvioletred;
+  transition: all 0.2s;
+}
+
 
 body {
   background-color: rgb(153,203,238);
