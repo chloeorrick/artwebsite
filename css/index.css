@@ -9,7 +9,7 @@
   font-family: 'Fugaz One', cursive;
 }
 
-.start:hover {
+.heading-text:hover {
   color: mediumvioletred;
   transition: all 0.2s;
 }
