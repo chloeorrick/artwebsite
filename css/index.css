@@ -10,7 +10,7 @@
 }
 
 .heading-text:hover {
-  color: mediumvioletred;
+  color: pink;
   transition: all 0.2s;
 }
 
