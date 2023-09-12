@@ -10,7 +10,8 @@
 }
 
 .heading-text:hover {
-  color: gray;
+  line-height: 0;
+  color: green;
   transition: all 0.2s;
 }
 
