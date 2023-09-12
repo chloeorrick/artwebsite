@@ -12,7 +12,7 @@
 }
 
 .heading-text:hover {
-  color: white;
+  color: gray;
   transition: all 0.2s;
 }
 
