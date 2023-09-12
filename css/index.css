@@ -4,16 +4,11 @@
   justify-content: center;
   align-items: center;
   font-size: 50px;
-  line-height: 0.75em;
+  line-height: 34px;
+  height: 35px;
   font-style: italic;
   font-stretch: expanded;
   font-family: 'Fugaz One', cursive;
-}
-
-span.bar
-{
-  position: relative;
-  bottom: -0.02em;
 }
 
 .heading-text:hover {
