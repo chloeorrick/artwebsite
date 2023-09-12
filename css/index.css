@@ -12,7 +12,7 @@
 }
 
 .heading-text:hover {
-  color: green;
+  color: yellow;
   transition: all 0.2s;
 }
 
