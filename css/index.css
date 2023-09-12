@@ -7,10 +7,11 @@
   font-style: italic;
   font-stretch: expanded;
   font-family: 'Fugaz One', cursive;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .heading-text:hover {
-  line-height: 0;
   color: green;
   transition: all 0.2s;
 }
